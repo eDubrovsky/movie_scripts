@@ -1,0 +1,8 @@
+
+
+<b><!--
+</b>if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b>"BLADE II" -- by David Goyer
+

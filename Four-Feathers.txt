@@ -1,0 +1,16 @@
+
+
+        "Four Feathers" -- by Michael Schiffer, revised by Hossein Amini - 3rd Draft
+
+
+
+
+<b><!--
+</b>if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b> 
+
+
+
+

@@ -1,0 +1,13 @@
+
+
+
+
+	
+
+
+<b><!--
+</b>if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b> 
+DAYS OF HEAVEN by Terry Malick REVISED: 6/2/76

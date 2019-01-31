@@ -1,0 +1,16 @@
+
+
+        "HIGHLANDER IV: WORLD WITHOUT END" -- Draft 9/1/99
+
+
+
+
+<b><!--
+</b>if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b> 
+
+
+
+

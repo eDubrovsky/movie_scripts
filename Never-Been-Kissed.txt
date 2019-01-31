@@ -1,0 +1,16 @@
+
+
+        "Never Been Kissed" 
+
+
+
+
+<b><!--
+</b>if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b> 
+
+
+
+

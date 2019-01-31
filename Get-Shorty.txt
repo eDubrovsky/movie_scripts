@@ -1,0 +1,11 @@
+
+  "GET SHORTY"
+title="style1">
+
+
+
+<br><b><!--
+<br></b>if (window!= top)
+<br>top.location.href=location.href
+<br><b>// -->
+<br></b> 
