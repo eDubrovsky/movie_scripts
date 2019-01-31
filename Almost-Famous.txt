@@ -1,0 +1,18 @@
+
+
+
+ALMOST FAMOUS by Cameron Crowe's 
+
+<b><!--
+</b>
+<b>/*
+</b>Break-out-of-frames script
+By Website Abstraction (http://wsabstract.com)
+Over 400+ free scripts here!
+Above notice MUST stay entact for use
+<b>*/
+</b>
+if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b>

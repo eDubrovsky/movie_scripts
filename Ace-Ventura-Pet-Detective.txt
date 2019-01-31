@@ -1,0 +1,16 @@
+
+
+        "ACE VENTUREA, PET DETECTIVE by Jack Bernstein, Tom Shadyac, Jim Carrey
+
+
+
+
+<b><!--
+</b>if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b> 
+
+
+
+
